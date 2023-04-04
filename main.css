@@ -1,5 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
 section {
     background-color: #ff1b68;
+}
+.section-title {
+    color: green;
 }
 h1 {
     color: white;
@@ -8,6 +15,8 @@ h1 {
     border-style: dashed;
 }
 
-.section-title {
-    color: #2ddf5c;
-}
+
+
+/* h1 {
+    font-family: serif;
+} */
